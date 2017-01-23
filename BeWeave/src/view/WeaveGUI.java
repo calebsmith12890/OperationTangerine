@@ -80,7 +80,7 @@ public class WeaveGUI extends JPanel {
                  + "Peter Chu - Aspiring artist.\n" 
                  + "Abdullah Islam - Perfectionist.\n"
                  + "Mustaf Dahir - The Lion King.\n" 
-                 + "John Chang - Diva.\n" 
+                 + "John Chang - I am Asian. I am man. I am an Asian man.\n" 
                  + "Caleb Smith - Secret agent."
                  , "We are...", JOptionPane.INFORMATION_MESSAGE);
              }
