@@ -4,6 +4,7 @@
  */
 package view;
 //ok hi
+//thats it?
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
