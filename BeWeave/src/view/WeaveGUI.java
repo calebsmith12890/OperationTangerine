@@ -24,9 +24,9 @@ import javax.swing.JPanel;
  * @version 22 January 17
  */
 public class WeaveGUI extends JPanel {
-    
+    ////commit chu
     /**
-	 * 
+	 *
 	 */
 	private static final long serialVersionUID = 6129890651191728134L;
 
